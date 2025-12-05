@@ -1,8 +1,5 @@
 ```py
-# Literally just prints "Welcome To vos's Github Page"...
-import threading
-from abc import ABC, abstractmethod
-from contextlib import contextmanager
+import threading;from abc import ABC, abstractmethod;from contextlib import contextmanager
 @contextmanager
 def printer_context():
     yield
@@ -33,9 +30,6 @@ def main():
     final_text = PrinterEngine.build(text)
     printer = GeneratorPrinter(final_text)
     with printer_context():
-        t = threading.Thread(target=threaded_print, args=(printer,))
-        t.start()
-        t.join()
-if __name__ == "__main__":
-    main()
+        t = threading.Thread(target=threaded_print, args=(printer,));t.start();t.join()
+main()
 ```
