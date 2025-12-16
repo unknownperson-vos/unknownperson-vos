@@ -44,17 +44,6 @@ I value:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=unknownperson-vos&show_icons=true&theme=transparent" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknownperson-vos&layout=compact&theme=transparent" height="160" />
-
-</div>
-
----
-
 ## 🌐 Community & Links
 
 * 🎮 **Discord Server:** [https://discord.gg/tMtdpUSrdM](https://discord.gg/tMtdpUSrdM)
